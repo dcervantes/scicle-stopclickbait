@@ -7,7 +7,7 @@ Userscript that changes the news headline by a headline more suited to the news 
 <h3>Requirements</h3>
 <ul>
  	<li>Firefox</li>
- 	<li>Greasemokey</li>
+ 	<li>Greasemonkey</li>
   <li>Algorithmia API Key</li>
 </ul>
 
@@ -20,7 +20,7 @@ Userscript que cambia el titular de las noticias por un titular más adecuado a 
 <h3>Requisitos:</h3>
 <ul>
  	<li>Firefox</li>
- 	<li>Greasemokey</li>
+ 	<li>Greasemonkey</li>
   <li>Algorithmia API Key</li>
 </ul>
 
