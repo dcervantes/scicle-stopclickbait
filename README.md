@@ -2,7 +2,7 @@
 
 <h2>[English]</h2>
 
-Userscript that changes the news headline by a headline more suited to the news it links to.
+Userscript that changes Clickbait headlines by headlinea more honest to the news it links to.
 
 <h3>Requirements</h3>
 <ul>
@@ -15,7 +15,7 @@ More info: http://scidle.com/stopclickbait-change-clickbait-headlines-to-an-hone
 
 <h2>[Español]</h2>
 
-Userscript que cambia el titular de las noticias por un titular más adecuado a la noticia a la que enlaza.
+Userscript que cambia titulares Clickbait de noticias por un titular más honesto a la noticia a la que enlaza.
 
 <h3>Requisitos:</h3>
 <ul>
