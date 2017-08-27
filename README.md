@@ -2,7 +2,7 @@
 
 <h2>[English]</h2>
 
-Userscript that changes Clickbait headlines by headlinea more honest to the news it links to.
+Userscript that changes Clickbait headlines by headlines more honest to the news it links to.
 
 <h3>Requirements</h3>
 <ul>
